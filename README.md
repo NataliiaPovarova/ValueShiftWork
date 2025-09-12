@@ -1,3 +1,5 @@
+**UPD: This repository is no longer maintained. We moved here: https://github.com/ai-alignment-liaison/ValueShiftProject under AI Alignment Liaison organisation. Please find the latest updates at the new address**
+
 **This repository contains work done by the ValueShift Team for Moonshot Alignment Program hosted by AI Plans.**
 
 ## General Description
